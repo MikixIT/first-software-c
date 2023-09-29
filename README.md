@@ -1,6 +1,7 @@
 # first-software-c
 first program written in c, an addition between two numbers!
 
+```c
 //
 //  main.c
 //  first-c-software
@@ -25,3 +26,4 @@ int main(void) {
     printf("\nHave a good day! by Michael :)\n\n");
     return 0;
 }
+```
